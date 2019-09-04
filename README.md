@@ -1,0 +1,2 @@
+# P2P-lending--ML-
+The objective was to analyze P2P lending loan transaction data from one of major US market player for over a decade and build model for identification and recommendation of borrowers for an investor.  The objective was to analyze P2P lending loan transaction data from one of major US market player for over a decade and build model for identification and recommendation of borrowers for an investor. 
